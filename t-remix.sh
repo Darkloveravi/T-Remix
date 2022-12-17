@@ -81,7 +81,7 @@ echo "
 
 echo
 echo "             ☆:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆" |lolcat -t
-echo "                             s c r i p t  b y  a s h i s h            " |lolcat -t
+echo "                             s c r i p t  b y  a v n e e s h.              " |lolcat -t
 echo "             ☆:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆" |lolcat -t
 
 sleep 3
@@ -185,7 +185,7 @@ echo -e "\e[32m
 		       ╚══════╝ ╚════╝  ╚═════╝ ╚═╝╚═╝  ╚══╝ v 2.0 "
 echo 
 echo "            ☆:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆" |lolcat -t
-echo "                            s c r i p t  b y  a s h i s h            " |lolcat -t
+echo "                            s c r i p t  b y  a v n e e s h            " |lolcat -t
 echo "            ☆:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆" |lolcat -t
 
 sleep 4
